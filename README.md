@@ -31,3 +31,8 @@ These are planned projects, not completed work:
 - Include failure cases and limitations alongside results.
 
 Starting with the fundamentals, one experiment at a time.
+
+## Learning projects
+
+- [tiny-training-lab](https://github.com/thickelectroc/tiny-training-lab) ? binary classification with gradient checks and held-out evaluation.
+- [robot-control-lab](https://github.com/thickelectroc/robot-control-lab) ? headless unicycle simulation with bounded control and analytical tests.
